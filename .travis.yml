@@ -1,3 +1,4 @@
+# travis-ci deprecated
 language: minimal
 if: branch = v1.1beta
 
